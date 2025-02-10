@@ -10,7 +10,7 @@ This project builds a **UK farm-level database** by integrating multiple dataset
 | Dataset | Year | Coverage | Insights & Limitations |
 |---------|------|----------|------------------------|
 | **Ordnance Survey MasterMap (OSMM)** | 2022 | All England’s agricultural fields | May underestimate total land coverage compared to DEFRA estimates |
-| **CROME** | 2023 | Crop types in England | Does not differentiate between summer and winter crops; missing crop hexagonal data |
+| **CROME** | 2020 | Crop types in England | Does not differentiate between summer and winter crops; missing crop hexagonal data |
 | **Land Registry (LR)** | 2023 | Ownership of agricultural fields | 46% of parcels lack ownership information |
 | **Companies House (CH)** | 2023 | Registered agricultural companies | Includes duplicate entries; requires filtering by SIC codes |
 | **Rural Payment Agency (RPA)** | 2023 | Land parcels receiving subsidies | Used only for validation purposes; no independent data for unregistered parcels |
