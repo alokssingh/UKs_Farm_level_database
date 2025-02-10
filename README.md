@@ -1,7 +1,7 @@
 # 🌾 UK Farm-Level Database Builder
 
 ## 📌 Project Overview
-This project builds a comprehensive **UK farm-level database** by integrating multiple datasets from various government and agricultural sources. The database provides insights into **ownership, crop types, environmental incentives, and agricultural production** using **Python-based data processing and analysis techniques**.
+This project builds a **UK farm-level database** by integrating multiple datasets from various government and agricultural sources. The database provides insights into **ownership, crop types, stewardship land, and agricultural production** using **Python-based data processing and analysis techniques**.
 
 ---
 
