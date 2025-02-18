@@ -1,0 +1,7 @@
+sentence-transformers
+pandas
+argparse
+openpyxl
+requests
+selenium
+webdriver-manager
