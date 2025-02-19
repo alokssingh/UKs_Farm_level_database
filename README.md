@@ -62,7 +62,7 @@ jupyter notebook cleaning_LR_using_ORD.ipynb
 ```sh
 python crop_type.py
 ```
-
+   
 ### 🏡 Assign Ownership Data
 ```sh
 jupyter notebook owner_assignment.ipynb
