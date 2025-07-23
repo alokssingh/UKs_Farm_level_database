@@ -97,6 +97,11 @@ We welcome contributions! 🚜 If you'd like to contribute:
 5. **Open a Pull Request**
 
 ---
+## Citation
+
+1. A Field-Level Asset Mapping Dataset for England’s Agricultural Sector. 👉🏻 https://www.nature.com/articles/s41597-025-05521-8
+
+---
 
 ## 📜 License
 This project is licensed under the **[MIT License](https://choosealicense.com/licenses/mit/)**.
